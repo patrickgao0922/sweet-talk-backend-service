@@ -1,0 +1,24 @@
+{
+  "name": "igloo-database-mysql",
+  "version": "1.0.0",
+  "description": "This is a Node.js module that is used to work with MySQL database of iGloo Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickgao0922/database.git"
+  },
+  "keywords": [
+    "iGloo",
+    "MySQL",
+    "Database"
+  ],
+  "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickgao0922/database/issues"
+  },
+  "homepage": "https://github.com/patrickgao0922/database#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "sweet-talk-backend-service",
+  "version": "1.0.0",
+  "description": "Backend service implemented by Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sweet",
+    "chat"
+  ],
+  "author": "Patrick Gao <patrickgao0922@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2"
+  }
+}

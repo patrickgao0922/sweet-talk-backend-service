@@ -1,6 +1,7 @@
+import database from "../database"
+
 class Account {
-	constructor(){
-		this.username = ""
-		this.password = ""
+	static findOne(username,password) {
+		
 	}
 }
